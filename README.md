@@ -31,5 +31,5 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: arpitajena8@gmail.com  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/arpita-jena/))  
+- 📧 Email: jenaarpi2004@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arpita-jena/)
